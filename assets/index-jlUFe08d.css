@@ -1,0 +1,1 @@
+.card{border:1px solid black;padding:2rem;display:flex;justify-content:center;align-items:center;width:120px;height:120px;border-radius:10px;background:var(--yellow)}.grid{height:600px;width:600px;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center}.turn-highlight{color:#fff}:root{--yellow: #ffc107;background-color:#000}
